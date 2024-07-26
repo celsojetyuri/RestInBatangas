@@ -1,0 +1,44 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - assets/profile.jpeg
+    - assets/hotel1.jpg
+    - assets/hotel2.jpg
+    - assets/hotel3.jpg
+    - assets/hotel4.jpg
+    - assets/hotel5.png
+    - assets/hotel1_1.jpg
+    - assets/hotel1_2.jpg
+    - assets/hotel1_3.jpg
+    - assets/hotel1_4.jpg
+    - assets/hotel2_1.jpg
+    - assets/hotel2_2.jpg
+    - assets/hotel2_3.jpg
+    - assets/hotel2_4.jpg
+    - assets/hotel3_1.jpg
+    - assets/hotel3_2.jpg
+    - assets/hotel3_3.jpg
+    - assets/hotel3_4.jpg
+    - assets/hotel4_1.jpg
+    - assets/hotel4_2.jpg
+    - assets/resort1.jpg
+
+ 
+
+
